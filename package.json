@@ -1,5 +1,26 @@
 {
+    "name": "snipcart-cypress-tests",
+    "version": "1.0.0",
+    "description": "Cypress - API & UI Tests",
+    "main": "index.js",
+    "dependencies": {},
     "devDependencies": {
-        "cypress": "^5.1.0"
-    }
+        "cypress": "^5.4.0",
+        "cypress-axe": "^0.8.1",
+        "cypress-iframe": "^1.0.1",
+        "cypress-localstorage-commands": "^1.2.2",
+        "date-and-time": "^0.13.1",
+        "jsonwebtoken": "^8.5.1",
+        "qs": "^6.9.4"
+    },
+    "scripts": {
+        "test.open": "npx cypress open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/saradhapr/cypress-snipcart.git"
+    },
+    "author": "Saradha Balaji",
+    "license": "ISC",
+    "homepage": "https://github.com/saradhapr/cypress-snipcart/blob/main/README.md"
 }
