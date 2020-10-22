@@ -11,6 +11,9 @@
         "cypress-localstorage-commands": "^1.2.2",
         "date-and-time": "^0.13.1",
         "jsonwebtoken": "^8.5.1",
+        "mocha": "^5.2.0",
+        "mochawesome": "^4.1.0",
+        "mochawesome-merge": "^4.2.0",
         "qs": "^6.9.4"
     },
     "scripts": {

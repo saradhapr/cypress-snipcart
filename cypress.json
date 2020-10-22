@@ -2,8 +2,12 @@
     "baseUrl": "https://snipcart-react-gatsby.netlify.app/",
     "integrationFolder": "./cypress/integration/testscripts",
     "chromeWebSecurity": false,
-    "retries": {
-        "runMode": 1,
-        "openMode": 0
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/report/mochawesome-report",
+        "overwrite": false,
+        "html": true,
+        "json": false,
+        "timestamp": "ddmmyyyy_HHMMss"
     }
 }
