@@ -5,7 +5,7 @@
 1. Goto https://github.com/saradhapr/cypress-snipcart to view the project
 2. Goto Documents on your computer and create a new folder 'Automation-Test'
 3. Open your visual studio code and open the terminal and goto folder 'Automation-Test'
-4. Type the following on your terminal, Git clone 'https://github.com/saradhapr/cypress-snipcart.git' and press enter
+4. Type the following on your terminal, 'Git clone https://github.com/saradhapr/cypress-snipcart.git' and press enter
 5. Type the following on your terminal, 'cd cypress-snipcart/' and press enter
 6. Type 'npm install' and press enter
 7. Type 'git status' to confirm remote branch and local branch are same
