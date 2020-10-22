@@ -1,2 +1,4 @@
 # cypress-snipcart
-Snipcart UI and API
+
+Follow the below steps to download and run the project:
+1. 
