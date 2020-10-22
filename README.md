@@ -21,5 +21,6 @@
 
 1. Type 'npm run test.open' --- Execute the test scripts from test runner. (OR)
 2. $(npm bin)/cypress run ----- Execute test run and generate test report in the folder cypress/report/mochawesome-report
+3. Kindly note that test reports can be viewed in proper formats in your local path folder(document/Automation-Test/cypress-snipcart/cypress/report/mochawesome-report/mochawesome_22102020_103725.html)
 
 # END #
